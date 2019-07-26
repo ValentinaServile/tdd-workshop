@@ -1,0 +1,15 @@
+{
+  "name": "tdd-workshop",
+  "version": "1.0.0",
+  "description": "TDD workshop examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Valentina Servile",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
